@@ -1,5 +1,5 @@
 # Internship-Scripts
-Scripts created for my Cybersecurity Analyst internship. 
+Scripts created for my Cybersecurity Analyst / System Administration internship for a North Carolina county government office. 
 
 ## NTLMv1-Compiler-v2.py
 This script runs on Windows Event log files in order to find login events using NTLMv1 in order to trace back their source devices in environments with large log quantities. 
